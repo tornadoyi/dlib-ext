@@ -1,6 +1,8 @@
 .idea
 *.pyc
 build
+cbuild
 dist
 pyplus.egg-info
 dlib
+cmake-build-debug
